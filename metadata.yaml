@@ -1,16 +1,21 @@
 _repo: The-Millbank-Case-A-Maine-Mystery-of-To-day_66051
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Keen, Eliot
     gutenberg_agent_id: '45786'
     url: http://www.gutenberg.org/2009/agents/45786
+covers:
+- cover_type: archival
+  image_path: 66051-h/images/cover.jpg
 creator:
   author:
     agent_name: Eldridge, George Dyre
     gutenberg_agent_id: '53617'
     url: http://www.gutenberg.org/2009/agents/53617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66051#The-Millbank-Case-A-Maine-Mystery-of-To-day
 gutenberg_issued: '2021-08-12'
 gutenberg_type: Text
 identifiers:
